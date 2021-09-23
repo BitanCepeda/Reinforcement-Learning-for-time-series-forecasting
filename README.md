@@ -9,7 +9,7 @@ En la carpeta llamada Diseño de experimentos se encuentra lo siguiente:
 * ALgoritmos (Implementaciones WFV y sin WFV)
 
 
-¿Cómo usar?
+<h1>¿Cómo usar?</h1>
 -Se descarga el repositorio, y se ejecutan los scripts teniendo muy en cuenta el direccionamiento de la serie de tiempo que se quiera evaluar.
 Nota: Para DDPG y RDPG en WFV es muy importante tener en cuenta los comentarios del código, ya que hay 3 scripts, y para cada script hay que importar y exportar unas series de tiempo, decargando los .csv y editándolos según las recomendaciones (borrando la columna del índice, y solo dejar la columna de los valores sin ningún título).
 
