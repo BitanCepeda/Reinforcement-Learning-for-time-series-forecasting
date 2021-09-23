@@ -1,0 +1,2 @@
+quitar columna date
+y quitar título 'LQI ó RSSI'
