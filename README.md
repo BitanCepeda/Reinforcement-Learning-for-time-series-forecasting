@@ -1,7 +1,7 @@
 # Reinforcement-Learning-for-time-series-forecasting
 Alojamiento del código fuente y datos del proyecto Proyección del comportamiento de enlaces en redes inalámbricas LLN mediante series de tiempo aplicando algoritmos de aprendizaje por refuerzo.
 
-En la carpeta de análisis de datos, se encuentran los scripts creados para el análisis de las series de tiempo y su verificación.
+En la carpeta de análisis de datos, se encuentran los scripts creados para el análisis de dispersión de las series de tiempo y su verificación.
 
 En la carpeta llamada Diseño de experimentos se encuentra lo siguiente:
 * Datos
