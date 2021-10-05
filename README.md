@@ -6,7 +6,7 @@ En la carpeta de análisis de datos, se encuentran los scripts creados para el a
 En la carpeta llamada Diseño de experimentos se encuentra lo siguiente:
 * Datos
 * Datos para DDPG y RDPG
-* ALgoritmos (Implementaciones WFV y sin WFV)
+* Algoritmos (Implementaciones WFV y sin WFV)
 
 
 <h1>¿Cómo usar?</h1>
