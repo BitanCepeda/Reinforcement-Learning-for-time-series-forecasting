@@ -14,3 +14,7 @@ En la carpeta llamada Diseño de experimentos se encuentra lo siguiente:
 Nota: Para DDPG y RDPG en WFV es muy importante tener en cuenta los comentarios del código, ya que hay 3 scripts, y para cada script hay que importar y exportar unas series de tiempo, decargando los .csv y editándolos según las recomendaciones (borrando la columna del índice, y solo dejar la columna de los valores sin ningún título).
 
 Cualquier duda, inquietud o aporte, contacto vía e-mail: riveracepedabrayan@gmail.com
+
+
+<h1>Referencias</h1>
+Los algortimos DDPG y RDPG y sus variantes, se obtuvieron de https://github.com/ChefLiutao/Time-series-forecasting-via-deep-reinforcement-learning 
